@@ -1,0 +1,14 @@
+{
+  "name": "3dlook",
+  "version": "1.0.0",
+  "description": "3dlook node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "laishi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
